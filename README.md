@@ -1,1 +1,1 @@
-Ипотечный калькулятор
+Credit calculator
